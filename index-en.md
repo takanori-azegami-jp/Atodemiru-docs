@@ -8,83 +8,98 @@ layout: default
 
 ## Privacy Policy for Android Applications
 
-This privacy policy outlines the principles that Takanori Azegami (hereinafter referred to as "the developer") adheres to when handling personal or equivalent information in relation to the use of the Android application "WatchLater" (hereinafter referred to as "the app") developed by the developer.
+This Privacy Policy outlines the policies followed by Takanori Azegami (hereinafter referred to as "the developer") regarding the handling of personal information and equivalent data in relation to the Android application "あとで見る（WatchLater）" (hereinafter referred to as "the app") developed by the developer.
 
 ### 1. Basic Policy
 
-The developer recognizes the importance of personal information, considers its protection a social responsibility, and complies with all applicable laws and regulations. The developer ensures the appropriate acquisition, use, and management of any information handled through the app.
+The developer recognizes the importance of personal information, considers its protection a social responsibility, and complies with all applicable laws and regulations. The developer will appropriately obtain, use, and manage any personal or non-personal information handled through the app.
 
 ### 2. Scope of Application
 
-This privacy policy applies solely to the app developed by the developer.
+This Privacy Policy applies only to the app developed by the developer.
 
-### 3. App Functionality Overview
+### 3. Overview of App Functionality
 
-This app is designed to support bookmarking of YouTube video playback pages. It allows users to save video titles, URLs, and similar metadata for later reference.
+The app supports bookmarking of YouTube video playback pages, allowing users to save metadata such as video titles and URLs for later reference. The app displays banner advertisements using Google AdMob.
 
 #### 3.1 App Permissions
 
-The app requires the following permission:
+The app uses the following permission:
 
-- **Storage access**: Used to save video bookmark data and app settings.
+- **Storage access**: Used to store video bookmark data and user settings.
 
 ### 4. Data Handling
 
 #### 4.1 Stored Data
 
-The following non-personal information is stored locally on the device:
+The following non-personal information is stored locally on the user's device:
 
-- Video bookmarks created in the app
-- App settings created by the user
+- Video bookmarks created using the app
+- App configuration and setting data
 
 **No personally identifiable information is stored or transmitted to the developer.**
 
 #### 4.2 Data Storage Location and Retention Period
 
-Data is stored in the device's internal storage and retained until the user uninstalls the app.
+All app data is stored within the device's internal storage.
+This data is retained until the user uninstalls the app.
 
-### 5. Privacy Protection Measures
+#### 4.3 Data Collection by AdMob
+
+This app uses Google AdMob, an advertising service provided by Google Inc.
+
+AdMob may automatically collect certain information, such as the advertising ID or other device identifiers, to display personalized ads based on the user's interests.
+
+For more information on the data collected and how it is used, please refer to Google's privacy and advertising policies:
+
+- [Google Privacy Policy](https://policies.google.com/privacy?hl=en)
+- [Google Advertising Technologies](https://policies.google.com/technologies/ads?hl=en)
+
+### 5. Efforts to Protect User Privacy
 
 #### 5.1 No Collection of Personal Information
 
-The developer does not release applications that collect personal information.
+The developer does not collect any personally identifiable information within the app.  
+Only non-personal data necessary for the app’s functionality is stored locally on the user's device.
 
-**Only non-personal data necessary for the app's functionality is stored on the user’s device.**
+Please refer to section 4.3 for details on AdMob-related data collection.
 
-#### 5.2 Data Accuracy
+#### 5.2 Ensuring Data Accuracy
 
-The app strives to store and reproduce user-entered data as accurately as possible.
+The app is designed to ensure that user-entered data is stored and reproduced accurately.
 
 #### 5.3 Security Measures
 
-To prevent data leakage or loss, the app does not transmit any data to external servers beyond its intended functionality.
+To prevent data leaks or loss, the app does not transmit any data to external servers beyond its intended functionality.
 
-#### 5.4 Third-Party Data Sharing
+#### 5.4 Provision of Data to Third Parties
 
-The developer does not provide any user data to third parties without obtaining prior user consent.  
-If such data sharing becomes necessary in the future, the purpose and details of the information will be disclosed, and user consent will be obtained before any sharing occurs.
+The developer will not provide any personal information to third parties without prior consent from the user.  
+If third-party data sharing is introduced in the future, users will be informed of the details and purpose, and data will only be shared with their consent.
 
 ### 6. User Rights and Choices
 
 #### 6.1 Consent
 
-Please read this privacy policy before installing the app. By installing the app, you are considered to have agreed to its terms.
+Users are requested to read this Privacy Policy before installing the app.  
+By installing the app, the user is considered to have agreed to this Privacy Policy.
 
-#### 6.2 Data Deletion
+#### 6.2 How to Delete Data
 
-Users can delete stored data at any time via the app’s settings. Uninstalling the app will also remove all associated data.
+Users can delete saved data anytime from within the app’s settings.  
+Uninstalling the app will also delete all locally stored data.
 
-### 7. Children’s Privacy
+### 7. Children's Privacy
 
-This app does not knowingly collect data from children under the age of 13.
+This app does not knowingly collect information from children under the age of 13.
 
 ### 8. Contact
 
-For inquiries about this app or the privacy policy, please contact:
+If you have any questions about the app or this Privacy Policy, please contact:
 
 **Email:** t.azegami213@gmail.com
 
-### 9. Effective Date and Updates
+### 9. Effective Date and Update History
 
-- Effective date: 2025/07/19  
-- Last updated: 2025/07/19
+- Effective Date: 2025/07/20
+- Last Updated: 2025/07/20
