@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Privacy Policy for Android Applications
+# Privacy Policy for Android / iOS Applications
 
 [日本語](index) | [English](index-en)
 
-## Privacy Policy for Android Applications
+## Privacy Policy for Android / iOS Applications
 
-This Privacy Policy outlines the policies followed by Takanori Azegami (hereinafter referred to as "the developer") regarding the handling of personal information and equivalent data in relation to the Android application "あとで見る（WatchLater）" (hereinafter referred to as "the app") developed by the developer.
+This Privacy Policy outlines the policies followed by Takanori Azegami (hereinafter referred to as "the developer") regarding the handling of personal information and equivalent data in relation to the Android / iOS application "あとで見る（WatchLater）" (hereinafter referred to as "the app") developed by the developer.
 
 ### 1. Basic Policy
 
@@ -102,4 +102,4 @@ If you have any questions about the app or this Privacy Policy, please contact:
 ### 9. Effective Date and Update History
 
 - Effective Date: 2025/07/20
-- Last Updated: 2025/07/20
+- Last Updated: 2025/12/31

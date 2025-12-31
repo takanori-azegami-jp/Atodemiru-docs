@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Privacy Policy for Android Applications
+# Privacy Policy for Android / iOS Applications
 
 [日本語](index) | [English](index-en)
 
-## Android アプリケーションのプライバシーポリシー
+## Android / iOS アプリケーションのプライバシーポリシー
 
-本プライバシーポリシーは、Takanori Azegami（以下、「当開発者」）が開発した Android アプリケーション「あとで見る（WatchLater）」（以下、「アプリ」とします） の利用において、利用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当開発者が遵守する方針を示したものです。
+本プライバシーポリシーは、Takanori Azegami（以下、「当開発者」）が開発した Android / iOS アプリケーション「あとで見る（WatchLater）」（以下、「アプリ」とします） の利用において、利用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当開発者が遵守する方針を示したものです。
 
 ### 1. 基本方針
 
@@ -100,4 +100,4 @@ AdMob は、ユーザーの興味に基づいた広告を表示するために�
 ### 9. 策定日および更新日
 
 - 策定日: 2025/7/20
-- 最終更新日: 2025/7/20
+- 最終更新日: 2025/12/31
