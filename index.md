@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Privacy Policy for Android / iOS Applications
+# WatchLater Privacy Policy for Android / iOS Applications
 
 [日本語](index) | [English](index-en)
 
